@@ -1,0 +1,6 @@
+SUCCESS # GT4500 2 0 2 0
+SUCCESS # torpedo single
+SUCCESS # torpedo single
+SUCCESS # torpedo single
+SUCCESS # torpedo single
+FAIL # elfogyott
